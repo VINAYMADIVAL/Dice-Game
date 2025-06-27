@@ -1,7 +1,7 @@
 <h1>How to Play?</h1>
 <p>
   <ul>
-    <li>First open the [website]()</li>
+    <li>First open the <a href="https://vinaymadival.github.io/Dice-Game/">website</a></li>
     <li>
     Select which is your dice and tell other person (selecting feature is not yet implemented)
   </li>
